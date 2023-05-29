@@ -25,7 +25,8 @@ void floyd()
         {
             for (int j = 0; j < n; j++)
             {
-                if(matrix[i][k] + matrix[k][j] < matrix[i][j]){
+                if (matrix[i][k] + matrix[k][j] < matrix[i][j])
+                {
                     matrix[i][j] = matrix[i][k] + matrix[k][j];
                 }
             }
