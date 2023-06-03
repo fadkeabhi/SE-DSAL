@@ -1,4 +1,4 @@
-/*Program for sdjacency matrix with BFS*/
+/*Program for adjacency matrix with BFS*/
 #include <iostream>
 // #include<iomanip>
 #define MAX 30
