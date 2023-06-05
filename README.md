@@ -13,7 +13,8 @@
 - [BST dictionary](tree/Dictionary_BST.cpp)
 
 ## FILE
-- [Employee](file/Employee.cpp)
+- [Employee sequence](file/Employee.cpp)
+- [Employee random](file/Employe_random.cpp)
 
 ## MISK
 - [Hash Table Telephone Book](Hash_Table_Telephone_Book.cpp)
