@@ -4,6 +4,7 @@
 - [BFS Flight](graph/Flight_BFS.cpp)
 - [FloydWarshalAlgo](graph/FloydWarshalAlgo.cpp)
 - [prims](graph/Prims_Algorithm.cpp)
+- [Dijkstra python](graph/Dijkstra.py)
 
 ## TREE
 - [BST](tree/BST_Operations.cpp)
